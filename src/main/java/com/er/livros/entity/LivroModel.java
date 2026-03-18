@@ -1,4 +1,4 @@
-package com.er.livros.models;
+package com.er.livros.entity;
 
 import jakarta.persistence.*;
 

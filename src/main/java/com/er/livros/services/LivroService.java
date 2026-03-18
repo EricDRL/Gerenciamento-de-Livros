@@ -1,9 +1,8 @@
-package com.vitorferreira.gerenciamento_Livros.Service;
+package com.er.livros.services;
 
-import com.er.livros.models.LivroModel;
+import com.er.livros.entity.LivroModel;
 import com.er.livros.repositories.LivroRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.AutoConfigureOrder;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
